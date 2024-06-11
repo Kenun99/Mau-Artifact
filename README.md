@@ -1,6 +1,7 @@
 # Mau-Artifact
 
-Code Base: https://figshare.com/s/2fd3f1616a17e78ffee7
+~~Code Base: https://figshare.com/s/2fd3f1616a17e78ffee7~~
+Download the code from the releases.
 
 # Build
 
